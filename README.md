@@ -32,4 +32,4 @@ I am a "First-Principles" builder bridging the gap between high-fidelity simulat
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-profile-url) | [Portfolio Site](https://CODE-ROBO.github.io)
+[LinkedIn]([https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/harshal-gadekar-714966306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
