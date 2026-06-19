@@ -6,7 +6,7 @@
 <h3 align="center">Robotics & Systems Engineer | Technology Founder | First-Principles Builder</h3>
 
 <p align="center">
-  <i>"I don't just write the control loops; I build the engines they fire."</i>
+  <i>"I don't just write the control loops; I build the engines that fire."</i>
 </p>
 
 ---
