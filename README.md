@@ -12,12 +12,16 @@
 ---
 
 ### 🌐 SYSTEM OVERVIEW
+<div align="justify">
 I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems, I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
+</div>
 
 ---
 
 ### 🗄️ MAINFRAME ARCHITECTURE (10-NODE REPOSITORY GRID)
-*The core data nodes currently active in my engineering laboratory:*
+<div align="justify">
+<i>The core data nodes currently active in my engineering laboratory:</i>
+</div>
 
 | ⚙️ Hardware Pillars | 🔬 Research Frameworks | 🚀 Special Projects |
 | :--- | :--- | :--- |
@@ -32,50 +36,64 @@ I am an autonomous systems engineer and prospective technology entrepreneur buil
 <details>
   <summary>🔴 <b>[EXPAND FILE]</b> Design Patent: Automated Health Diagnostic Kiosk</summary>
   <blockquote>
+    <div align="justify">
     <b>Architecture:</b> High-availability biomedical human-machine interface (HMI).<br>
     <b>Objective:</b> Engineered an ergonomic mechatronic interface layout to ensure fail-safe medical dispensing and diagnostic tracking under critical failure states.
+    </div>
   </blockquote>
 </details>
 
 <details>
   <summary>🟡 <b>[EXPAND FILE]</b> Design Patent: Adaptive Robotic End Effector</summary>
   <blockquote>
+    <div align="justify">
     <b>Architecture:</b> Conformal Soft Grasping Mechanism.<br>
     <b>Objective:</b> Designed an underactuated soft robotics jaw geometry capable of dynamic precision manipulation for highly unstructured object handling.
+    </div>
   </blockquote>
 </details>
 
 <details>
   <summary>🔵 <b>[EXPAND FILE]</b> Explainable AI (ICoRD '27): Industry 5.0 Framework</summary>
   <blockquote>
+    <div align="justify">
     <b>Title:</b> Human-Centric Explainable AI (XAI) Framework for Adaptive Co-Bot Trajectories.<br>
     <b>Core Contribution:</b> Developed an algorithmic control layer for collaborative robots that dynamically scales velocity vectors based on real-time operator fatigue metrics, utilizing semantic diagnostics over cryptic error codes.
+    </div>
   </blockquote>
 </details>
 
 <details>
   <summary>🔵 <b>[EXPAND FILE]</b> IISER Pune Research: Applied Machine Learning</summary>
   <blockquote>
+    <div align="justify">
     <b>Title:</b> Machine Learning–Based Imaging of Basement Structure from Gravity Anomaly Data.<br>
     <b>Objective:</b> Applying advanced machine learning frameworks and automated imaging models to extract higher-order geospatial data fields.
+    </div>
   </blockquote>
 </details>
 
 ---
 
 ### 🚀 PROJECT JERICHO & AEROSPACE FABRICATION
-**Founder & Systems Director @ Team Dhruvishaya Rocketry & Space Research (TDRSR)**
+<div align="justify">
+<b>Founder & Systems Director @ Team Dhruvishaya Rocketry & Space Research (TDRSR)</b><br>
 Leading a rapid-prototyping team of 15+ engineers to dominate high-power rocketry challenges (Spaceport America Cup / IN-SPACe).
+
 * **Flight Architecture:** Engineering an M-class APCP solid motor sounding rocket targeting **Mach 1** and an apogee of **11,000 feet**.
 * **Prarambh-1 Motor:** Executed 14 empirical static-fire iterations of KNSB solid propellant chemistry to stabilize internal grain structures and chamber pressure anomalies.
+</div>
 
 ---
 
 ### ⚙️ RAW HARDWARE INTEGRATION
+<div align="justify">
 I believe true engineering requires getting your hands dirty. Beyond software, I fabricate systems from the ground up:
+
 * **Automated Waste Segregation:** Fused multi-sensor arrays and high-throughput sorting conveyor lines using a hybrid control architecture.
 * **Heavy-Duty Platforms:** Tuned PID dynamics for high-thrust multi-rotors and executed OpenCV differential drive kinematics for mobile robotics.
 * **Manufacturing Arsenal:** Extensive experience with hands-on fabrication, CAD-to-CAM workflows, and end-to-end mechatronic integration.
+</div>
 
 ---
 
@@ -99,8 +117,11 @@ I believe true engineering requires getting your hands dirty. Beyond software, I
 ---
 
 ### 🌐 INDUSTRY FOOTPRINT & EXHIBITIONS
+<div align="justify">
+
 * **Hackathons & Competitions:** Janatics Automation Skill Challenge 2025, Bharatiya Antariksh Hackathon.
 * **Technical Expos:** Air Taxi Technology Workshops, Automation Expos.
+</div>
 
 ---
 
@@ -113,7 +134,9 @@ I believe true engineering requires getting your hands dirty. Beyond software, I
 ---
 
 ### 📡 SECURE COMMS & COLLABORATION
+<div align="justify">
 Always open to scaling new technology, pushing hardware to its physical limits, and collaborating with fellow founders, engineers, and researchers.
 
 * 🔗 **[LinkedIn Uplink](https://www.linkedin.com/in/harshal-gadekar-714966306)**
 * 🖥️ **Holographic Portfolio Array:** `[DEPLOYMENT IMMINENT - LINK PENDING]`
+</div>
