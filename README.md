@@ -2,14 +2,6 @@
   <img src="https://media.giphy.com/media/3o6vXNLzX1ZhYLdZ4s/giphy.gif" alt="Arc Reactor" width="200"/>
 </p>
 
-<div align="center">
-  <code>
-  [SYSTEM INITIALIZING]...<br>
-  [LOADING PROTOCOLS]... HARSHAL_GADEKAR_OS<br>
-  [MODULES ONLINE]... MECHATRONICS | AEROSPACE | AI_VISION
-  </code>
-</div>
-
 <h1 align="center">HARSHAL GADEKAR (CODE-ROBO)</h1>
 <h3 align="center">Robotics & Systems Engineer | Technology Founder | First-Principles Builder</h3>
 
@@ -20,9 +12,7 @@
 ---
 
 ### 🌐 SYSTEM OVERVIEW
-I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. 
-
-Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems. I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
+I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems, I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
 
 ---
 
