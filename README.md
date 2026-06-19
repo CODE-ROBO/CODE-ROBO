@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/3o6vXNLzX1ZhYLdZ4s/giphy.gif" alt="Arc Reactor" width="200"/>
 </p>
 
+<div align="center">
+  <code>
+  [SYSTEM INITIALIZING]...<br>
+  [LOADING PROTOCOLS]... HARSHAL_GADEKAR_OS<br>
+  [MODULES ONLINE]... MECHATRONICS | AEROSPACE | AI_VISION
+  </code>
+</div>
+
 <h1 align="center">HARSHAL GADEKAR (CODE-ROBO)</h1>
 <h3 align="center">Robotics & Systems Engineer | Technology Founder | First-Principles Builder</h3>
 
@@ -14,34 +22,70 @@
 ### 🌐 SYSTEM OVERVIEW
 I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. 
 
-From empirical solid propellant characterization to human-centric Explainable AI, I bridge the gap between theoretical multi-physics and physical deployment. I am currently laying the R&D foundation to launch an advanced robotics enterprise.
+Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems. I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
+
+---
+
+### 🗄️ MAINFRAME ARCHITECTURE (10-NODE REPOSITORY GRID)
+*The core data nodes currently active in my engineering laboratory:*
+
+| ⚙️ Hardware Pillars | 🔬 Research Frameworks | 🚀 Special Projects |
+| :--- | :--- | :--- |
+| `Heavy-Duty-Quadcopter` | `XAI-Industry-5.0` | `IISER-ML-Imaging` *(Active)* |
+| `4WD-Vision-Kinematics` | `Solid-Propulsion-KNSB` | `Project-Jericho-Avionics` |
+| `Medical-ATM-System` | `Robotic-End-Effector-Sim` | `Automated-Waste-Segregation`|
+| *(Hardware Node 4)* | *(Research Node 4)* | `CODE-ROBO` *(Root)* |
 
 ---
 
 ### 🛡️ INTELLECTUAL PROPERTY & R&D VAULT
-**(Filed Indian Design Patents)**
-* 🔴 **Design Patent:** *Automated Health Diagnostic Kiosk with Ergonomic Mechatronic Interface Layout*
-* 🟡 **Design Patent:** *Adaptive Robotic End Effector with Conformal Soft Grasping Mechanism*
+<details>
+  <summary>🔴 <b>[EXPAND FILE]</b> Design Patent: Automated Health Diagnostic Kiosk</summary>
+  <blockquote>
+    <b>Architecture:</b> High-availability biomedical human-machine interface (HMI).<br>
+    <b>Objective:</b> Engineered an ergonomic mechatronic interface layout to ensure fail-safe medical dispensing and diagnostic tracking under critical failure states.
+  </blockquote>
+</details>
 
-**(Academic Research)**
-* 🔵 **Explainable AI (ICoRD '27):** *Human-Centric Explainable AI (XAI) Framework for Adaptive Co-Bot Trajectories and Semantic Diagnostics in Industry 5.0 Paradigms.*
-* 🔵 **IISER Pune Research:** *Machine Learning–Based Imaging of Basement Structure from Gravity Anomaly Data.*
+<details>
+  <summary>🟡 <b>[EXPAND FILE]</b> Design Patent: Adaptive Robotic End Effector</summary>
+  <blockquote>
+    <b>Architecture:</b> Conformal Soft Grasping Mechanism.<br>
+    <b>Objective:</b> Designed an underactuated soft robotics jaw geometry capable of dynamic precision manipulation for highly unstructured object handling.
+  </blockquote>
+</details>
+
+<details>
+  <summary>🔵 <b>[EXPAND FILE]</b> Explainable AI (ICoRD '27): Industry 5.0 Framework</summary>
+  <blockquote>
+    <b>Title:</b> Human-Centric Explainable AI (XAI) Framework for Adaptive Co-Bot Trajectories.<br>
+    <b>Core Contribution:</b> Developed an algorithmic control layer for collaborative robots that dynamically scales velocity vectors based on real-time operator fatigue metrics, utilizing semantic diagnostics over cryptic error codes.
+  </blockquote>
+</details>
+
+<details>
+  <summary>🔵 <b>[EXPAND FILE]</b> IISER Pune Research: Applied Machine Learning</summary>
+  <blockquote>
+    <b>Title:</b> Machine Learning–Based Imaging of Basement Structure from Gravity Anomaly Data.<br>
+    <b>Objective:</b> Applying advanced machine learning frameworks and automated imaging models to extract higher-order geospatial data fields.
+  </blockquote>
+</details>
 
 ---
 
 ### 🚀 PROJECT JERICHO & AEROSPACE FABRICATION
 **Founder & Systems Director @ Team Dhruvishaya Rocketry & Space Research (TDRSR)**
-Leading a rapid-prototyping team of 15+ engineers to dominate high-power rocketry challenges.
+Leading a rapid-prototyping team of 15+ engineers to dominate high-power rocketry challenges (Spaceport America Cup / IN-SPACe).
 * **Flight Architecture:** Engineering an M-class APCP solid motor sounding rocket targeting **Mach 1** and an apogee of **11,000 feet**.
-* **Prarambh-1 Motor:** Built an entire rocket engine from scratch. Executed 14 empirical static-fire iterations of KNSB solid propellant chemistry to stabilize internal grain structures and chamber pressure anomalies.
+* **Prarambh-1 Motor:** Executed 14 empirical static-fire iterations of KNSB solid propellant chemistry to stabilize internal grain structures and chamber pressure anomalies.
 
 ---
 
-### ⚙️ RAW HARDWARE & MECHATRONIC INTEGRATION
+### ⚙️ RAW HARDWARE INTEGRATION
 I believe true engineering requires getting your hands dirty. Beyond software, I fabricate systems from the ground up:
-* **Automated Waste Segregation System:** Built entirely from scratch, fusing sensor arrays and high-throughput sorting conveyor lines.
-* **Heavy-Duty Quadcopter & 4WD Vision-Driven Kiosk:** Baseline mechatronic platforms proving multi-rotor high-thrust dynamics and OpenCV differential drive kinematics.
-* **Manufacturing Arsenal:** Extensive experience with hands-on fabrication, rapid prototyping, and end-to-end mechatronic integration.
+* **Automated Waste Segregation:** Fused multi-sensor arrays and high-throughput sorting conveyor lines using a hybrid control architecture.
+* **Heavy-Duty Platforms:** Tuned PID dynamics for high-thrust multi-rotors and executed OpenCV differential drive kinematics for mobile robotics.
+* **Manufacturing Arsenal:** Extensive experience with hands-on fabrication, CAD-to-CAM workflows, and end-to-end mechatronic integration.
 
 ---
 
@@ -59,6 +103,7 @@ I believe true engineering requires getting your hands dirty. Beyond software, I
   <br>
   <img src="https://img.shields.io/badge/LaTeX-00FFFF?style=for-the-badge&logo=latex&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
