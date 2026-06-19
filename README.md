@@ -102,7 +102,7 @@ I believe true engineering requires getting your hands dirty. Beyond software, I
   <img src="https://img.shields.io/badge/SolidWorks-8B0000?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion_360-8B0000?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Altium-8B0000?style=for-the-badge&logo=altium&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRocket-8B0000?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMotor-8B0000?style=for-the-badge&logo=rocket&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" />
@@ -110,8 +110,7 @@ I believe true engineering requires getting your hands dirty. Beyond software, I
   <img src="https://img.shields.io/badge/Siemens_TIA_Portal-FFD700?style=for-the-badge&logo=siemens&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/LaTeX-00FFFF?style=for-the-badge&logo=latex&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansys-00FFFF?style=for-the-badge&logo=Ansys&logoColor=black" />
 </p>
 
 ---
