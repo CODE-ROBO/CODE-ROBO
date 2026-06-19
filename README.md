@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">HARSHAL GADEKAR (CODE-ROBO)</h1>
-<h3 align="center">Robotics & Systems Engineer | Technology Founder | First-Principles Builder</h3>
+<h3 align="center">Robotics & Systems Engineer | Technology Contributor | First-Principles Builder</h3>
 
 <p align="center">
   <i>"I don't just write the control loops; I build the engines that fire."</i>
