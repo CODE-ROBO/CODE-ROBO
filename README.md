@@ -1,8 +1,6 @@
 <div align="center">
   <code>
-  [SYS_INIT]... MAIN_DIRECTORY_ACTIVE<br>
-  [AUTHENTICATION]... CLEARANCE_GRANTED<br>
-
+ 
 
 
 <p align="center">
