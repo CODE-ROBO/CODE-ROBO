@@ -5,10 +5,6 @@
   <i>"I don't just write the control loops; I build the engines that fire."</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshal-gadekar-714966306">
-
-
 ---
 
 ### 🌐 EXECUTIVE SYSTEM OVERVIEW
