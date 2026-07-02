@@ -1,8 +1,3 @@
-<div align="center">
-  <code>
- 
-
-
 <p align="center">
   <br>
   <img src="https://media.giphy.com/media/3o6vXNLzX1ZhYLdZ4s/giphy.gif" alt="Arc Reactor" width="180"/>
