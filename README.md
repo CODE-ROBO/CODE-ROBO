@@ -1,8 +1,3 @@
-<p align="center">
-  <br>
-  <img src="https://media.giphy.com/media/3o6vXNLzX1ZhYLdZ4s/giphy.gif" alt="Arc Reactor" width="180"/>
-</p>
-
 <h1 align="center">HARSHAL GADEKAR</h1>
 <h3 align="center">Robotics & Systems Engineer | Technology Contributor | First-Principles Builder</h3>
 
