@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/harshal-gadekar-714966306">
 
   </a>
-  <img src="https://img.shields.io/badge/Location-Pune,_India-8B0000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  
   <img src="https://img.shields.io/badge/Status-Building_the_Future-00FFFF?style=for-the-badge" alt="Status"/>
 </p>
 
