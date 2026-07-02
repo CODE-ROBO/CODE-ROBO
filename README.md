@@ -2,8 +2,7 @@
   <code>
   [SYS_INIT]... MAIN_DIRECTORY_ACTIVE<br>
   [AUTHENTICATION]... CLEARANCE_GRANTED<br>
-  [USER]... HARSHAL_GADEKAR // SYSTEMS_DIRECTOR
-  </code>
+
 
 
 <p align="center">
