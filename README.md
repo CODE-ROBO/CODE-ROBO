@@ -12,6 +12,8 @@
 ### 🌐 EXECUTIVE SYSTEM OVERVIEW
 <div align="justify">
 I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems (ETH Zurich), I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
+
+  I am an autonomous systems engineer and prospective technology entrepreneur building at the intersection of high-fidelity simulation, raw hardware fabrication, and safety-critical intelligence. My directive is to architect and scale next-generation industrial automation and aerospace mechatronics. Currently expanding my R&D portfolio while targeting advanced graduate research in Robotics and Control Systems (ETH Zurich), I bridge the gap between theoretical multi-physics and physical deployment to lay the foundation for a future robotics enterprise.
 </div>
 
 ---
