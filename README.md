@@ -1,7 +1,6 @@
 
 <h1 align="center">HARSHAL GADEKAR</h1>
 <h3 align="center">Robotics & Systems Engineer | Technology Contributor | First-Principles Builder</h3>
-<
 
 
 <p align="center">
