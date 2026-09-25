@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://harshal-gadekar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harshal--gadekar.vercel.app-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://orcid.org/0009-0005-2456-4470"><img src="https://img.shields.io/badge/ORCID-0009--0005--2456--4470-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://www.linkedin.com/in/harshal-gadekar-714966306"><img src="https://img.shields.io/badge/LinkedIn-harshal--gadekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" al
+  <a href="https://www.linkedin.com/in/harshal-gadekar-714966306"><img src="https://img.shields.io/badge/LinkedIn-harshal--gadekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </p>
 
 ---
