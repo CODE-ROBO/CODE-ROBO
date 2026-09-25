@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://harshal-gadekar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harshal--gadekar.vercel.app-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://orcid.org/0009-0005-2456-4470"><img src="https://img.shields.io/badge/ORCID-0009--0005--2456--4470-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://www.linkedin.com/in/harshal-gadekar-714966306"><img src="https://img.shields.io/badge/LinkedIn-harshal--gadekar-0077B5
+  <a href="https://www.linkedin.com/in/harshal-gadekar-714966306"><img src="https://img.shields.io/badge/LinkedIn-harshal--gadekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -153,7 +153,7 @@ Physical execution grounded in manufacturing tolerances, motion control, and cir
 ### 📊 TELEMETRY & GITHUB ACTIVITY
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CODE-ROBO&show_icons=true&title_color=00FFFF&icon_color=FFD700&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&hide_border=true" alt="Harshal's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-ROBO&layout=compact&title_color=00FFFF&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&hide_border=true" alt="Top Languages" height="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-ROBO&layout=compact&title_color=00FFFF&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&hide_border=true" alt="Top Languages" height="165px"/>
 </p>
 
 ---
