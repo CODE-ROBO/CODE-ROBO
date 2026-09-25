@@ -150,13 +150,6 @@ Physical execution grounded in manufacturing tolerances, motion control, and cir
 
 ---
 
-### 📊 TELEMETRY & GITHUB ACTIVITY
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODE-ROBO&show_icons=true&title_color=00FFFF&icon_color=FFD700&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&hide_border=true" alt="Harshal's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-ROBO&layout=compact&title_color=00FFFF&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&hide_border=true" alt="Top Languages" height="165px"/>
-</p>
-
----
 
 ### 📡 SECURE COMMS & COLLABORATION
 <div align="justify">
